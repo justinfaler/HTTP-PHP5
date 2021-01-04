@@ -1,0 +1,21 @@
+{
+	"name": "developer-star/http",
+	"type": "library",
+	"description": "Convenience wrapper around cURL",
+	"keywords": ["curl","http","api"],
+	"homepage": "https://github.com/developer-star/http",
+	"license": "MIT",
+	"authors": [
+		{
+			"name": "Kennet Dastrup",
+			"email": "dastrup.denmark@gmail.com",
+			"homepage": "https://github.com/developer-star"
+		}
+	],
+	"require": {
+		"php": ">=5.3.0"
+	},
+	"autoload": {
+		"files": ["http.php"]
+	}
+}
